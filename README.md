@@ -1,4 +1,4 @@
-# coding-advent-calendar-lists-2021
+# Coding Advent Calendar List 2021 🎁
 
 A list of coding Advent Calendars for 2021, with snippets from the websites that explain what they are.
 
